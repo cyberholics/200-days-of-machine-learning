@@ -8,5 +8,10 @@ This repo will document my learning journey for the next 200 days.
 In these 200days of learning, I aim to 
 1. Learn how to build Deep learning models with PyTorch
 2. Learn natural language processing(NLP) with PyTorch
-3. Learn Machine Learning Operations (Mlops) 
+3. Learn and build projects around the intersection of artificial intelligence(AI) and Cyber security
+4. Learn Machine Learning Operations (Mlops)
+
+
+### Summary of the 200 days
+Coming soon......
 
